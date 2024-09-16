@@ -1,0 +1,7 @@
+{
+  "name": "LICENSE",
+  "description": "?",
+  "repository": "https://github.com/AassefCreations/WIE",
+  "keywords": ["school", "math"],
+  "image": "heroku/nodejs"
+}
